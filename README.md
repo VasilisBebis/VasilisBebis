@@ -1,5 +1,4 @@
 ```
-```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mDMEaHyZzRYJKwYBBAHaRw8BAQdA2Eqb05RZDw1DXFSKulUXoYAfNxtlsi0yQMOl
 DFmKDo60KVZhc2lsaXNCZWJpcyA8dmFzaWxpc2JlbXBpc0B0dXRhbWFpbC5jb20+
@@ -13,5 +12,4 @@ QZQ+GcK2swN1nkuOJuEWzJ49rwD/V5zk4qa6G5pd2GOqSvtlJHzReqgBv6wZcvqx
 XJkH5gA=
 =fD9E
 -----END PGP PUBLIC KEY BLOCK-----
-```
 ```
